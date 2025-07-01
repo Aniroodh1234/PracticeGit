@@ -1,5 +1,5 @@
 def lane(a,x):
     return a+x
 
-def gane(t,m):
-    return t+m
+def gane(t,m,d):
+    return t+m+d
