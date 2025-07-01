@@ -1,4 +1,4 @@
-def lane(a,x,w):
+def lane(a,x):
     return a+x+w
 
 def gane(t,m,d,p):
