@@ -1,5 +1,5 @@
 def lane(a,x):
     return a+x
 
-def pane(t,m):
+def gane(t,m):
     return t+m
